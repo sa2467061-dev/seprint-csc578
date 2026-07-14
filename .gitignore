@@ -1,0 +1,11 @@
+# Real API keys / secrets — never commit this file.
+# Copy config.example.js to config.js locally, fill in your keys.
+config.js
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env
+.env.local
